@@ -3,6 +3,7 @@
     position: fixed;
     content: "normal";
     display: block;
+    margin: 5%;
     clear: both;
     border: 2px solid black;
     margin-top: 0%;
@@ -31,7 +32,7 @@
     width: 700px;
     padding: 30px;
     border: 10px;
-    margin: 0%;
+    margin: 5%;
     position: relative;
     clear: both;
 }
@@ -39,7 +40,7 @@
 .info {
     position: relative;
     background-color: lightgrey;
-    width: 250px;
+    width: 350px;
     padding: 30px;
     border: 10px;
     margin: 0%;
