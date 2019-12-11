@@ -1,3 +1,3 @@
-# Basic-Portfolio
+# Bootstrap-portfolio
 
-A basic portfolio for Rodney Tippery
+A basic portfolio with bootstrap stuff added for Rodney Tippery.
